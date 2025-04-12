@@ -36,6 +36,8 @@ This Terraform configuration provisions the following GCP resources:
 
 1. **Clone the repository**
 
-gitbash
-git clone https://github.com/awoyinfa/GCP-Assessment-Section3.git
-cd GCP-Assessment-Section3
+    gitbash
+   
+    git clone https://github.com/awoyinfa/GCP-Assessment-Section3.git
+   
+    cd GCP-Assessment-Section3
